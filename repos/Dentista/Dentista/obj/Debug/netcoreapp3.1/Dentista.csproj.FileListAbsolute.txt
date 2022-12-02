@@ -1,0 +1,18 @@
+C:\Users\theo.397212\source\repos\Dentista\Dentista\bin\Debug\netcoreapp3.1\Dentista.exe
+C:\Users\theo.397212\source\repos\Dentista\Dentista\bin\Debug\netcoreapp3.1\Dentista.deps.json
+C:\Users\theo.397212\source\repos\Dentista\Dentista\bin\Debug\netcoreapp3.1\Dentista.runtimeconfig.json
+C:\Users\theo.397212\source\repos\Dentista\Dentista\bin\Debug\netcoreapp3.1\Dentista.runtimeconfig.dev.json
+C:\Users\theo.397212\source\repos\Dentista\Dentista\bin\Debug\netcoreapp3.1\Dentista.dll
+C:\Users\theo.397212\source\repos\Dentista\Dentista\bin\Debug\netcoreapp3.1\Dentista.pdb
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.csproj.AssemblyReference.cache
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.Form1.resources
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.csproj.GenerateResource.cache
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.AssemblyInfoInputs.cache
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.AssemblyInfo.cs
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.csproj.CoreCompileInputs.cache
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.dll
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.pdb
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.genruntimeconfig.cache
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.Form1 - Cópia.resources
+C:\Users\theo.397212\source\repos\Dentista\Dentista\obj\Debug\netcoreapp3.1\Dentista.Form2.resources
